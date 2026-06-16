@@ -196,7 +196,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. Good first issues are tag
 OpenHealthDash is currently being piloted at:
 - [Add your pilot facility once confirmed]
 
-If your clinic or NGO would like to pilot this tool, please open a [GitHub Discussion](https://github.com/latifahadamson/openhealthdash/discussions) or email [your email].
+If your clinic or NGO would like to pilot this tool, please open a [GitHub Discussion](https://github.com/latifahadamson/openhealthdash/discussions) or email [tayoadamson@gmail.com].
 
 ---
 
@@ -205,8 +205,8 @@ If your clinic or NGO would like to pilot this tool, please open a [GitHub Discu
 If you use OpenHealthDash in research or reporting, please cite:
 
 ```
-[Your Name]. (2025). OpenHealthDash: Open-source healthcare analytics framework.
-GitHub. https://github.com/YOUR_USERNAME/openhealthdash
+[Latifah Omotayo Adamson]. (2025). OpenHealthDash: Open-source healthcare analytics framework.
+GitHub. https://github.com/latifahadamson/openhealthdash
 ```
 
 ---
