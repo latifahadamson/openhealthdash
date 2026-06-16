@@ -219,9 +219,9 @@ MIT License — free to use, modify, and distribute. See [LICENSE](LICENSE).
 
 ## Author
 
-Built by Latifah Omotayo Adamson — a BI Architect focused on using open-source data tools to improve healthcare delivery in low-resource settings.
+Built by Latifah Omotayo Adamson, a BI Architect focused on using open-source data tools to improve healthcare delivery in low-resource settings.
 
-[GitHub](https://github.com/latifahadamson) · [LinkedIn](https://latifahadamson) · [Dev.to](https://dev.to/YOU)
+[GitHub](https://github.com/latifahadamson) · [LinkedIn](https://latifahadamson) · [Dev.to](https://dev.to/latifahadamson)
 
 ---
 
