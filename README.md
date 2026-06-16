@@ -187,7 +187,7 @@ OpenHealthDash is designed to be adapted, not just installed. See [docs/adapting
 
 Contributions are very welcome — especially from health data professionals in Africa and the Global South.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. Good first issues are tagged [`good first issue`](https://github.com/YOUR_USERNAME/openhealthdash/labels/good%20first%20issue).
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. Good first issues are tagged [`good first issue`](https://github.com/latifahadamson/openhealthdash/labels/good%20first%20issue).
 
 ---
 
@@ -196,7 +196,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. Good first issues are tag
 OpenHealthDash is currently being piloted at:
 - [Add your pilot facility once confirmed]
 
-If your clinic or NGO would like to pilot this tool, please open a [GitHub Discussion](https://github.com/YOUR_USERNAME/openhealthdash/discussions) or email [your email].
+If your clinic or NGO would like to pilot this tool, please open a [GitHub Discussion](https://github.com/latifahadamson/openhealthdash/discussions) or email [your email].
 
 ---
 
