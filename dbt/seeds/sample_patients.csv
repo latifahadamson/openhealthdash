@@ -1,0 +1,11 @@
+patient_id,first_name,last_name,date_of_birth,gender,state,registration_date,is_active
+P001,Amina,Bello,1990-03-12,Female,Abuja,2023-01-05,true
+P002,Chukwu,Okafor,1985-07-22,Male,Lagos,2023-01-08,true
+P003,Fatima,Musa,2000-11-01,Female,Kano,2023-01-10,true
+P004,Emeka,Eze,1978-05-30,Male,Enugu,2023-01-15,true
+P005,Ngozi,Adeyemi,1995-09-14,Female,Ibadan,2023-02-01,true
+P006,Yusuf,Ibrahim,2003-02-28,Male,Kaduna,2023-02-10,true
+P007,Chioma,Nwosu,1988-12-03,Female,Abuja,2023-02-14,true
+P008,Bola,Tinubu,1992-06-17,Male,Lagos,2023-03-01,true
+P009,Halima,Suleiman,1975-08-09,Female,Sokoto,2023-03-05,false
+P010,Tunde,Bakare,1999-04-21,Male,Abuja,2023-03-12,true
