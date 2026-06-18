@@ -1,0 +1,13 @@
+visit_id,patient_id,visit_date,department,registration_time,consultation_time,discharge_time,visit_type,diagnosis_category
+V001,P001,2024-01-05,Maternity,08:00,08:45,09:30,Antenatal,Maternal Health
+V002,P002,2024-01-05,General OPD,09:00,10:20,10:45,Outpatient,Respiratory
+V003,P003,2024-01-06,Maternity,07:30,08:00,09:00,Antenatal,Maternal Health
+V004,P004,2024-01-06,General OPD,10:00,11:30,12:00,Outpatient,Hypertension
+V005,P005,2024-01-07,Paediatrics,08:30,09:15,10:00,Outpatient,Malaria
+V006,P006,2024-01-08,General OPD,09:15,10:00,10:30,Outpatient,Malaria
+V007,P007,2024-01-08,Maternity,07:00,07:30,15:00,Inpatient,Maternal Health
+V008,P008,2024-01-09,General OPD,11:00,12:45,13:10,Outpatient,Diabetes
+V009,P009,2024-01-10,Paediatrics,08:00,08:40,09:15,Outpatient,Malaria
+V010,P010,2024-01-10,General OPD,09:30,10:50,11:20,Outpatient,Respiratory
+V011,P001,2024-01-15,Maternity,08:00,08:30,09:15,Antenatal,Maternal Health
+V012,P003,2024-01-18,Maternity,07:45,08:10,09:00,Antenatal,Maternal Health
