@@ -1,0 +1,4 @@
+name: openhealthdash
+type: duckdb
+options:
+  filename: ../../../dev.duckdb
