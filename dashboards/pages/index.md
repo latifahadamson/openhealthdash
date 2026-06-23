@@ -18,6 +18,30 @@ order by avg_wait_time_minutes desc
 
 <DataTable data={wait_times} />
 
+## Bed Occupancy by Ward
+
+```sql bed_occupancy
+select
+    ward,
+    total_beds,
+    total_admissions,
+    avg_length_of_stay_days,
+    total_bed_days_used,
+    bed_turnover_rate,
+    occupancy_rate_pct / 100 as occupancy_rate_pct
+from openhealthdash.bed_occupancy
+order by occupancy_rate_pct desc
+```
+
+<BarChart
+    data={bed_occupancy}
+    x=ward
+    y=occupancy_rate_pct
+    title="Bed Occupancy Rate by Ward"
+/>
+
+<DataTable data={bed_occupancy} />
+
 ## Patient Overview
 
 ```sql patients
