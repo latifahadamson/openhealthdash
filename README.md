@@ -6,6 +6,9 @@
 [![dbt](https://img.shields.io/badge/dbt-1.7-orange)](https://getdbt.com)
 [![Evidence](https://img.shields.io/badge/Evidence.dev-latest-blue)](https://evidence.dev)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)](CONTRIBUTING.md)
+## Dashboard Preview
+
+![OpenHealthDash dashboard showing wait time and bed occupancy charts](docs/images/dashboard-preview.png)
 
 ---
 
