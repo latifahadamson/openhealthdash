@@ -42,6 +42,28 @@ order by occupancy_rate_pct desc
 
 <DataTable data={bed_occupancy} />
 
+## National Context: Nigeria Health Workforce Trends (WHO Data)
+
+This section uses real, published WHO Global Health Observatory data — shown alongside this project's facility-level analysis for national context.
+
+```sql workforce
+select * from openhealthdash.national_health_context
+where indicator != 'Hospital beds'
+order by year
+```
+
+<LineChart
+    data={workforce}
+    x=year
+    y=value_per_10000_population
+    series=indicator
+    title="Health Workforce per 10,000 Population (Nigeria, WHO data)"
+/>
+
+<DataTable data={workforce} />
+
+*Note: WHO's most recent published figure for hospital beds in Nigeria is 5.0 per 10,000 population, dating to 2004 — included here for transparency, though it is too dated to treat as a current benchmark. Source: [WHO Global Health Observatory](https://www.who.int/data/gho)*
+
 ## Patient Overview
 
 ```sql patients
