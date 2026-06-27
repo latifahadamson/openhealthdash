@@ -194,15 +194,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. Good first issues are tag
 
 ---
 
-## Real-World Pilot
-
-OpenHealthDash is currently being piloted at:
-- [Add your pilot facility once confirmed]
-
-If your clinic or NGO would like to pilot this tool, please open a [GitHub Discussion](https://github.com/latifahadamson/openhealthdash/discussions) or email [tayoadamson@gmail.com].
-
----
-
 ## Citation
 
 If you use OpenHealthDash in research or reporting, please cite:
